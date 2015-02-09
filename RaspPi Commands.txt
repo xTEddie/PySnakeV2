@@ -1,1 +1,0 @@
-sudo echo "message" | mail -s "subject" edwardtranv1@gmail.com
